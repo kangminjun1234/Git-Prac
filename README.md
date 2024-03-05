@@ -7,3 +7,7 @@
 회원가입 기능 개발.
 
 Git Revert Test
+
+Git Stash Test
+
+문서를 수정합니다.
